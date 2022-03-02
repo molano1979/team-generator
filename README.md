@@ -11,7 +11,7 @@ The Team Profile Generator is a command-line-input application run in Node and g
 
 Upon launching the app, the user is prompted for their team member's information.
 An HTML file is generated that displays team roster based on the users input.
-When the user is finished building thei team, they wil exit the application, and the HTML is generated.
+When the user is finished building the team, they wil exit the application, and the HTML is generated.
 
 [view video here](https://drive.google.com/file/d/1WkBkEjWRsrTfzDl0KgKI_KB4eJLrFMat/view)
 
