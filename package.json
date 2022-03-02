@@ -1,25 +1,7 @@
 {
-  "name": "team-generator",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "jest": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/molano1979/team-generator.git"
-  },
-  "author": "dcady",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/molano1979/team-generator/issues"
-  },
-  "homepage": "https://github.com/molano1979/team-generator#readme",
-  "devDependencies": {
-    "jest": "^27.5.1"
-  },
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "-": "^0.0.1",
+    "D": "^1.0.0",
+    "jest": "^27.5.1"
   }
 }
