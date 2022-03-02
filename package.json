@@ -1,0 +1,19 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molano1979/team-generator.git"
+  },
+  "author": "dcady",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molano1979/team-generator/issues"
+  },
+  "homepage": "https://github.com/molano1979/team-generator#readme"
+}
