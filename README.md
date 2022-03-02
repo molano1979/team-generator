@@ -13,8 +13,13 @@ Upon launching the app, the user is prompted for their team member's information
 An HTML file is generated that displays team roster based on the users input.
 When the user is finished building thei team, they wil exit the application, and the HTML is generated.
 
+[view video here](https://drive.google.com/file/d/1WkBkEjWRsrTfzDl0KgKI_KB4eJLrFMat/view)
+
+![team](/team.png)
 
 ## Installation
 Before running the application the user must do an npm install to install all required dependencies.
 
+## Questions
 
+If you have any questions about this project, please contact me directly at dmmolano@yahoo.com. You can view more of my projects at https://github.com/molano1979
